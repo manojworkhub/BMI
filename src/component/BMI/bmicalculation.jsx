@@ -67,7 +67,7 @@ function Bmi() {
             />
           </div>
           <div>
-            <label htmlFor="weight">Enther the height</label>
+            <label htmlFor="weight">Enther the weight</label>
             <input
               type="text"
               id="weight"
